@@ -1,0 +1,1 @@
+c++ -std=c++17 -Wall -Wextra -Werror -fsanitize=address,undefined task1.cpp -o task1 && ./task 1
